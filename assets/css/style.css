@@ -191,4 +191,7 @@ p {
   .header .menu-icon {
     display: none;
   }
+  div img {
+    width: 400px;
+  }
 }
