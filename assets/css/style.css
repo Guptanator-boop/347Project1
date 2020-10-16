@@ -1,7 +1,7 @@
 body {
   background-color: #FF9D00;
   width: 100%;
-  margin: 0;
+  margin: 5px;
   -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
   -moz-animation: fadein 2s; /* Firefox < 16 */
    -ms-animation: fadein 2s; /* Internet Explorer */
@@ -35,6 +35,7 @@ body {
 p {
   color: #ffffff;
   font-size: 20px;
+  font-family: Calibri, serif;
 }
 
 .img-container {
