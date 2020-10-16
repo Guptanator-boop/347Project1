@@ -35,6 +35,10 @@ p {
   font-size: 20px;
 }
 
+.img-container {
+  text-align: center;
+  display: block;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #263238;
