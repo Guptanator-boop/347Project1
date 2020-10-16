@@ -42,6 +42,11 @@ p {
   display: block;
 }
 
+figcaption {
+  color: #ffffff;
+  font-size: 17px;
+}
+
 /* header */
 
 .header {
